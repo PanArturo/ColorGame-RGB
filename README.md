@@ -16,6 +16,5 @@ Created using HTML, CSS, JavaScript.
 
 3.JavaScript
 
-4.DOM manipulations.
+4.Manipulation of DOM using jQuery
 
-5.Event listeners handled by using jQuery
