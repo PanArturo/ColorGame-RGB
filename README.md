@@ -7,6 +7,8 @@ Learn RGB colors with practice by playing this game.
 # Techniques
 
           - HTML/CSS
+          
           - JavaScript
+          
           - Manipulation of DOM using jQuery
 
