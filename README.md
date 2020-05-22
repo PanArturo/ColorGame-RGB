@@ -1,12 +1,8 @@
 # ColorGame-RGB
 
-Fun and interactive guessing game given a RGB code and choose the right color.
+Fun and interactive guessing game given a RGB code and choosing the right color.
 
-Never forgetting how to recognize a color by looking at RGBs!!!
-
-If you are tired googling what color the rgb represents, check this out!
-
-Created using HTML, CSS, JavaScript.
+Learn RGB colors with practice by playing this game.
 
 # Techniques
 
